@@ -1,5 +1,5 @@
 {
-  "name": "foundation-sites",
+  "name": "foundation-sites-teebly",
   "version": "6.6.3",
   "main": "dist/js/foundation.js",
   "module": "dist/js/foundation.esm.js",
@@ -116,11 +116,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/foundation/foundation-sites"
+    "url": "https://github.com/Teebly/foundation-sites"
   },
   "bugs": {
-    "url": "https://github.com/foundation/foundation-sites/issues",
-    "email": "contact@get.foundation"
+    "url": "https://github.com/Teebly/foundation-sites/issues",
+    "email": "miro@teebly.co"
   },
   "keywords": [
     "css",
